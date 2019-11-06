@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Person1",
+          "location": "Karlsplatz"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.37065887451172,
+            48.198634205159415
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Person2",
+          "location": "Kahlenberg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.336809396743774,
+            48.27439270757297
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Person3",
+          "location": "Donauinsel"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.43256425857544,
+            48.21356396077834
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Person4",
+          "location": "Alte WU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.35817050933838,
+            48.23223432875717
+          ]
+        }
+      }
+    ]
+  }
